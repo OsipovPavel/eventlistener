@@ -1,0 +1,47 @@
+#content {
+    width: 300px;
+    margin: 50px auto;
+    text-align: center;
+}
+.content-text {
+    font-size: 50px;
+}
+#content-btn {
+    width: 100%;
+    background-color: rgb(73, 130, 184);
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+}
+
+/* для практической 1 */
+.content-title {
+    tab-size: 30px;
+}
+/* для практической 2 */
+#big-box {
+    width: 100vw;
+    height: 100vh;
+}
+
+/* Для практической 3 */
+.container {
+    width: 500px;
+    margin: auto;
+}
+#hideText {
+    display: block;
+    margin: 0px auto;
+    width: 300px;
+    padding: 20px 50px;
+    font-size: 20px;
+}
+.main-text {
+    width: 100%;
+    text-align: justify;
+    overflow: hidden;
+    height: 0;
+}
+.show-text {
+    height: auto;
+}
